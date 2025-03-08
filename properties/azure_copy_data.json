@@ -1,52 +1,52 @@
 [
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Categories.csv",
-        "sink_folder" : "AdventureWorks_Product_Categories",
-        "sink_file" : "AdventureWorks_Product_Categories.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Product_Categories.csv",
+        "sink_folder" : "Product_Categories",
+        "sink_file" : "Product_Categories.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Calendar.csv",
-        "sink_folder" : "AdventureWorks_Calendar",
-        "sink_file" : "AdventureWorks_Calendar.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Calendar.csv",
+        "sink_folder" : "Calendar",
+        "sink_file" : "Calendar.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Customers.csv",
-        "sink_folder" : "AdventureWorks_Customers",
-        "sink_file" : "AdventureWorks_Customers.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Customers.csv",
+        "sink_folder" : "Customers",
+        "sink_file" : "Customers.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Product_Subcategories.csv",
         "sink_folder" : "Product_Subcategories",
-        "sink_file" : "AdventureWorks_Product_Subcategories.csv"
+        "sink_file" : "Product_Subcategories.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Products.csv",
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Products.csv",
         "sink_folder" : "AdventureWorks_Products",
         "sink_file" : "AdventureWorks_Products.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Returns.csv",
-        "sink_folder" : "AdventureWorks_Returns",
-        "sink_file":"AdventureWorks_Returns.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Returns.csv",
+        "sink_folder" : "Returns",
+        "sink_file":"Returns.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2015.csv",
-        "sink_folder" : "AdventureWorks_Sales_2015",
-        "sink_file" : "AdventureWorks_Sales_2015.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Sales_2015.csv",
+        "sink_folder" : "Sales_2015",
+        "sink_file" : "Sales_2015.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2016.csv",
-        "sink_folder" : "AdventureWorks_Sales_2016",
-        "sink_file" : "AdventureWorks_Sales_2016.cvsv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Sales_2016.csv",
+        "sink_folder" : "Sales_2016",
+        "sink_file" : "Sales_2016.cvsv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2017.csv",
-        "sink_folder" : "AdventureWorks_Sales_2017",
-        "sink_file" : "AdventureWorks_Sales_2017.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Sales_2017.csv",
+        "sink_folder" : "Sales_2017",
+        "sink_file" : "Sales_2017.csv"
     },
     {
-        "rel_url" : "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Territories.csv",
-        "sink_folder" : "AdventureWorks_Territories",
-        "sink_file" : "AdventureWorks_Territories.csv"
+        "rel_url" : "bgmanoj/Azure-Data-Engineering/refs/heads/main/Dataset/AdventureWorks_Territories.csv",
+        "sink_folder" : "Territories",
+        "sink_file" : "Territories.csv"
     }
 ]
